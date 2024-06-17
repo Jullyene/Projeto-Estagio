@@ -9,7 +9,12 @@
 
 
 /station/:nome - Com todas as intâncias das estações
+
 ![image](https://github.com/Jullyene/Projeto-Estagio/assets/160196619/f32ee769-571b-4fb8-bcc3-94121370a58c)
+
+
+
+
 
 
 
