@@ -20,6 +20,10 @@
 
 
 /temperatura/:temperatura - Listando todas as estações em que o número se enquadra no intervalo, sem nomes duplicados
+
+
+
+
 ![image](https://github.com/Jullyene/Projeto-Estagio/assets/160196619/07c66a3a-158d-4103-9ac5-1dbb676b7969)
 
 
