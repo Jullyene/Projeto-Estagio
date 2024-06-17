@@ -2,13 +2,13 @@
 
 ## Requisitos
 ### Como solicitado foi realizado a criação das rotas:
-/ - Contendo a média de todas as estações, máxima, mínima e qual das estações apareceu mais vezes.
+"/ - Contendo a média de todas as estações, máxima, mínima e qual das estações apareceu mais vezes."
 ![image](https://github.com/Jullyene/Projeto-Estagio/assets/160196619/8d268c7b-6d03-413b-be71-8c7b7db81af8)
 
 
 
 
-/station/:nome - Com todas as intâncias das estações
+"/station/:nome - Com todas as intâncias das estações"
 
 ![image](https://github.com/Jullyene/Projeto-Estagio/assets/160196619/f32ee769-571b-4fb8-bcc3-94121370a58c)
 
@@ -19,7 +19,7 @@
 
 
 
-/temperatura/:temperatura - Listando todas as estações em que o número se enquadra no intervalo, sem nomes duplicados
+"/temperatura/:temperatura - Listando todas as estações em que o número se enquadra no intervalo, sem nomes duplicados"
 
 
 
